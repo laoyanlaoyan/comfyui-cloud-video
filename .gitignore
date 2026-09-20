@@ -1,0 +1,15 @@
+ComfyUI/.venv/
+ComfyUI/models/
+ComfyUI/output/
+ComfyUI/input/
+ComfyUI/temp/
+*.mp4
+*.webm
+*.mov
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+__pycache__/
+.DS_Store
+*.swp
